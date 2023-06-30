@@ -24,5 +24,8 @@ int print_sign(int n)
         _putchar('-');
         return (-1);
     }
+
+    /* Added return statement for the case when n is negative */
+    return (-1);
 }
 
