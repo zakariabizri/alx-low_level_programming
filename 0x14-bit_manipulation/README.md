@@ -1,2 +1,0 @@
-Project:
-C - Bit Manipulation
